@@ -1,4 +1,4 @@
-# Capivara Robocode
+# Capivara Robocode 🤖
 
 Este projeto apresenta dois robôs desenvolvidos na plataforma Robocode, um ambiente de programação onde robôs virtuais competem em batalhas.
 
