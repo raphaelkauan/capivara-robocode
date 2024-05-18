@@ -45,3 +45,36 @@ Um robô focado em vencer a batalha com cautela.
 #### 3. Compile os robôs.
 
 #### 4. Execute as batalhas para ver os robôs em ação.
+
+## 🤝 Equipe
+
+Pessoas que desenvolveram esses robôs:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/raphaelkauan">
+        <img src="https://avatars.githubusercontent.com/u/111379005?v=4" width="100px;"/><br>
+        <sub>
+          <b>Raphael Kauan</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gabrielgt5">
+        <img src="https://avatars.githubusercontent.com/u/69332675?s=400&u=31459ee527d187a0713939d2b34c5acbd20940ce&v=4" width="100px;"/><br>
+        <sub>
+          <b>Gabriel Lucas</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eonarga">
+        <img src="https://avatars.githubusercontent.com/u/111381502?v=4" width="100px;"/><br>
+        <sub>
+          <b>Assis Policarpo</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
