@@ -20,7 +20,7 @@ Um robô focado em vencer a batalha com cautela.
 -   Mira rotativa
 -   Tenta desviar de tiros
 
-<img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="235px" height="235px">
+<img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="230px" height="230px">
 
 ## Como Executar
 
