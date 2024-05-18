@@ -36,9 +36,9 @@ Um robô focado em vencer a batalha com cautela.
 
 #### 1. Clone o repositório:
 
-    ```bash
-    git clone https://github.com/raphaelkauan/capivara-robocode.git
-    ```
+```bash
+git clone https://github.com/raphaelkauan/capivara-robocode.git
+```
 
 #### 2. Importe o projeto no Robocode.
 
