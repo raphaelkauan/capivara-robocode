@@ -46,7 +46,6 @@ Um robô focado em vencer a batalha com cautela.
 
 #### 4. Execute as batalhas para ver os robôs em ação.
 
-<br>
 <hr>
 
 ## 🤝 Equipe
