@@ -2,6 +2,10 @@
 
 Este projeto apresenta dois robôs desenvolvidos na plataforma Robocode, um ambiente de programação onde robôs virtuais competem em batalhas.
 
+## Descrição
+
+Os robôs foram desenvolvidos para participar de uma maratona de programação, na qual ficaram em 3º lugar.
+
 ## Capivara:
 
 Um robô focado em vencer a batalha o mais rápido possível.
