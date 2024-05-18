@@ -29,7 +29,7 @@ Um robô focado em vencer a batalha com cautela.
 
 <div>
     <img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="400px" height="350px">
-    <p>🟡 Capivara: yellow color</p>
+    <p>🟡 CyberCapivara: yellow color</p>
 </div>
 
 ## Como Executar
