@@ -11,7 +11,7 @@ Um robô focado em vencer a batalha o mais rápido possível.
 -   Não tenta desviar de tiros
 
 <div>
-    <img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/aae2a2f2-5e3a-4ec9-b736-f5b7844e228e" width="350px" height="350px">
+    <img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/aae2a2f2-5e3a-4ec9-b736-f5b7844e228e" width="400px" height="350px">
     <p>Capivara: black color</p>
 </div>
  
@@ -24,7 +24,7 @@ Um robô focado em vencer a batalha com cautela.
 -   Tenta desviar de tiros
 
 <div>
-    <img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="350px" height="350px">
+    <img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="400px" height="350px">
     <p>Capivara: yellow color</p>
 </div>
 
