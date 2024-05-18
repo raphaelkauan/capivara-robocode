@@ -10,7 +10,7 @@ Um robô focado em vencer a batalha o mais rápido possível.
 -   Mira fixa no inimigo
 -   Não tenta desviar de tiros
 
-<img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/aae2a2f2-5e3a-4ec9-b736-f5b7844e228e" width="235px" height="235px">
+<img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/aae2a2f2-5e3a-4ec9-b736-f5b7844e228e" width="180px" height="180px">
 
 ## CyberCapivara:
 
@@ -20,7 +20,7 @@ Um robô focado em vencer a batalha com cautela.
 -   Mira rotativa
 -   Tenta desviar de tiros
 
-<img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="230px" height="230px">
+<img src="https://github.com/raphaelkauan/capivara-robocode/assets/111379005/41839941-b618-4d31-a93b-c4e3f973d642" width="180px" height="180px">
 
 ## Como Executar
 
